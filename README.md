@@ -87,8 +87,12 @@ This project is licensed under the [MIT License with Attribution](LICENSE).
 
 For any inquiries or feedback, feel free to contact us at [gtbj2016@yahoo.com](mailto:gtbj2016@yahoo.com).
 
+<<<<<<< HEAD
 ## 📊 Activity Graph
 
 Check out the animated graph below to see the number of pulls and pushes per day:
 
 [![Activity Graph](https://example.com/activity-graph.gif)](https://github.com/gi88785/noFap)
+=======
+<!-- Add a cool animation here -->
+>>>>>>> 9ddc85604ae4e08bda25424db95baa36b871003f
