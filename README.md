@@ -77,15 +77,15 @@ Our goal is to empower users with tools and resources that facilitate personal g
 
 ## 🎉 Contributing
 
-Contributions are welcome! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request.
+- Contributions are welcome! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request.
 
 ## 📝 License
 
-This project is licensed under the [MIT License with Attribution](LICENSE).
+- This project is licensed under the [MIT License with Attribution](LICENSE).
 
 ## 📞 Contact
 
-For any inquiries or feedback, feel free to contact us at [gtbj2016@yahoo.com](mailto:gtbj2016@yahoo.com).
+- For any inquiries or feedback, feel free to contact us at [gtbj2016@yahoo.com](mailto:gtbj2016@yahoo.com).
 
 ## 📊 Activity
 
