@@ -87,12 +87,12 @@ This project is licensed under the [MIT License with Attribution](LICENSE).
 
 For any inquiries or feedback, feel free to contact us at [gtbj2016@yahoo.com](mailto:gtbj2016@yahoo.com).
 
-<<<<<<< HEAD
-## 📊 Activity Graph
+## 📊 Activity
 
-Check out the animated graph below to see the number of pulls and pushes per day:
-
-[![Activity Graph](https://example.com/activity-graph.gif)](https://github.com/gi88785/noFap)
-=======
-<!-- Add a cool animation here -->
->>>>>>> 9ddc85604ae4e08bda25424db95baa36b871003f
+[![GitHub stars](https://img.shields.io/github/stars/gi88785/noFap.svg?style=flat-square&logo=github)](https://github.com/gi88785/noFap/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/gi88785/noFap.svg?style=flat-square&logo=github)](https://github.com/gi88785/noFap/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/gi88785/noFap.svg?style=flat-square&logo=github)](https://github.com/gi88785/noFap/watchers)
+[![Latest release](https://img.shields.io/github/v/release/gi88785/noFap.svg?style=flat-square&logo=github)](https://github.com/gi88785/noFap/releases)
+[![Pushes](https://img.shields.io/github/commit-activity/m/gi88785/noFap?color=green&label=Pushes)](https://github.com/gi88785/noFap)
+[![Pulls](https://img.shields.io/github/issues-pr-closed/gi88785/noFap?color=green&label=Pulls)](https://github.com/gi88785/noFap)
+[![Commits](https://img.shields.io/github/commit-activity/m/gi88785/noFap?color=green&label=Commits)](https://github.com/gi88785/noFap)
